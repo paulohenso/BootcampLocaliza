@@ -1,0 +1,16 @@
+D:\BootcampLocaliza\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+D:\BootcampLocaliza\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+D:\BootcampLocaliza\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+D:\BootcampLocaliza\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+D:\BootcampLocaliza\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+D:\BootcampLocaliza\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+D:\BootcampLocaliza\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+D:\BootcampLocaliza\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+D:\BootcampLocaliza\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootcampLocaliza\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+D:\BootcampLocaliza\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+D:\BootcampLocaliza\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+D:\BootcampLocaliza\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+D:\BootcampLocaliza\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+D:\BootcampLocaliza\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+D:\BootcampLocaliza\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
